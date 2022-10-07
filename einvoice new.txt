@@ -1,3 +1,5 @@
 Hi 
 This is my first line 
 the sec line 
+we will added it 
+git add 
