@@ -1,5 +1,11 @@
-Hi 
-This is my first line 
-the sec line 
-we will added it 
-git add 
+<!DOCTYPE html>
+<html>
+  <head>  
+		<title> Hello world ! </title>
+    </head>
+    
+    <body>
+      <h1> This is my first application ! </h1>
+			<!-- this is a comment -->
+  </body>
+</html>
